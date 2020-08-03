@@ -133,7 +133,7 @@ class productDeatil extends StatelessWidget {
             Container(
               decoration:
                   BoxDecoration(border: Border.all(color: Colors.blueGrey)),
-              width: 400,
+              width: 300,
               child: Image.asset(product[0]),
             ),
 
